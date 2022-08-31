@@ -10,3 +10,5 @@ group :test do
   gem "database_cleaner"
   gem "rspec"
 end
+
+gem "ruby-lsp", "~> 0.3.0", :group => :development
